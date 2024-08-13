@@ -1,16 +1,15 @@
 # getx
 
-A new Flutter project.
+## 👉 CRUD OPERATION FOR EMPLOYEE MANAGEMENT SYSTEM USING GETX
 
-## Getting Started
+<h1 align = "center">
+  <img src="https://github.com/user-attachments/assets/8034db34-ee1e-4694-a234-19654ef4a415" height=65%  width=22%>
 
-This project is a starting point for a Flutter application.
+  <img src="https://github.com/user-attachments/assets/9cc0aefc-4ba1-49e4-a384-828b6b25fbbd" height=65%  width=22%>
 
-A few resources to get you started if this is your first Flutter project:
+  <img src="https://github.com/user-attachments/assets/f80322e6-0604-4809-8baf-5bd3f331d5d1" height=65%  width=22%>
+</h1>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+<video src = "https://github.com/user-attachments/assets/288b4dbc-df65-45f2-b701-217ea3a72833">
